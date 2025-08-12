@@ -15,9 +15,9 @@ I specialize in:
 - 📱 Android app design, testing, and deployment  
 - 🔗 API integration & Firebase services  
 - 📦 Play Store launch and app lifecycle management
-- <!-- Resume Download -->
+ <!-- Resume Download -->
 <p align="center">
-  <a href="https://github.com/lalitrajputdev/lalitrajputdev/blob/main/resume/LalitRajput-Resume.pdf" target="_blank">
+  <a href="https://github.com/lalitrajputdev/lalitrajputdev/blob/main/Lalit-Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
@@ -39,7 +39,7 @@ I specialize in:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lalitrajputdev&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitrajputdev&theme=tokyonight" height="165">
+ <img src="https://streak-stats.demolab.com?user=lalitrajputdev&theme=tokyonight" height="165">
 </p>
 
 ---
