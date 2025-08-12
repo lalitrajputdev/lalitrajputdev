@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:babusinghrajput9604@gmail.com"><img src="https://img.shields.io/badge/Email-babusinghrajput9604%40gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://linkedin.com/in/lalitrajput-babusingh-20650a249"><img src="https://img.shields.io/badge/LinkedIn-Lalit%20Rajput-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/LalitRajputAndroid"><img src="https://img.shields.io/badge/GitHub-LalitRajputAndroid-black?style=flat&logo=github"></a>
+  <a href="https://github.com/lalitrajputdev"><img src="https://img.shields.io/badge/GitHub-lalitrajputdev-black?style=flat&logo=github"></a>
 </p>
 
 ---
@@ -32,13 +32,13 @@ I specialize in:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LalitRajputAndroid&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LalitRajputAndroid&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitrajputdev&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitrajputdev&theme=tokyonight" height="165">
 </p>
 
 ---
 
-💬 *Let's Connect:*  
+💬 **Let's Connect:**  
 📩 Email: babusinghrajput9604@gmail.com  
 🔗 LinkedIn: [lalitrajput-babusingh-20650a249](https://linkedin.com/in/lalitrajput-babusingh-20650a249)  
-💻 GitHub: [LalitRajputAndroid](https://github.com/LalitRajputAndroid)
+💻 GitHub: [lalitrajputdev](https://github.com/lalitrajputdev)
