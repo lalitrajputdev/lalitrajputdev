@@ -1,3 +1,13 @@
+<!-- बैनर -->
+<p align="center">
+  <img src="[BANNER_IMAGE_LINK](https://chatgpt.com/s/m_689b3cc42d60819181ebe00ce5838a0c)" alt="Lalit Rajput Banner" />
+</p>
+
+<!-- टाइपिंग ऐनिमेशन -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Android+Developer;Kotlin+%7C+Java+%7C+Flutter;Building+Apps+that+Solve+Problems;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Babusingh Rajput (Lalit)</h1>
 <h3 align="center">🚀 Android Developer | Kotlin & Java Enthusiast | Mobile App Innovator</h3>
 
