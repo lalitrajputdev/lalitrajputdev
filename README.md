@@ -14,7 +14,13 @@ I am an *Android developer* with over a year of hands-on experience in building 
 I specialize in:
 - 📱 Android app design, testing, and deployment  
 - 🔗 API integration & Firebase services  
-- 📦 Play Store launch and app lifecycle management  
+- 📦 Play Store launch and app lifecycle management
+- <!-- Resume Download -->
+<p align="center">
+  <a href="https://github.com/lalitrajputdev/lalitrajputdev/blob/main/resume/LalitRajput-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
 
 ---
 
