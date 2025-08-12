@@ -1,6 +1,6 @@
 <!-- बैनर -->
 <p align="center">
-  <img src="[BANNER_IMAGE_LINK](https://chatgpt.com/s/m_689b3cc42d60819181ebe00ce5838a0c)" alt="Lalit Rajput Banner" />
+  <img src="https://chatgpt.com/s/m_689b3cc42d60819181ebe00ce5838a0c" alt="Lalit Rajput Banner" />
 </p>
 
 <!-- टाइपिंग ऐनिमेशन -->
@@ -49,7 +49,7 @@ I specialize in:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lalitrajputdev&show_icons=true&theme=tokyonight" height="165">
- <img src="https://streak-stats.demolab.com?user=lalitrajputdev&theme=tokyonight" height="165">
+  <img src="https://streak-stats.demolab.com?user=lalitrajputdev&theme=tokyonight&hide_border=false" height="165">
 </p>
 
 ---
